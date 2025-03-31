@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a series of Jupyter notebooks that form the basis of a data science project focused on fraud detection. The project is structured into three main components: data analysis, data forecasting, and data modeling.
+This repository contains a series of Jupyter notebooks that form the basis of a project on fraud detection. The project is structured into three main components: data analysis, data forecasting, and data modeling.
 
 ## Notebooks
 
